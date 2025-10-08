@@ -1,16 +1,28 @@
-## Hi there 👋
+ Hi, I'm Karabo
 
-<!--
-**KaraboTDev/KaraboTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Software Development Student | Aspiring Full-Stack Developer  
+ Tech Stack: HTML • CSS • JavaScript • Angular • C# • .NET  
+ Building clean, scalable apps — one project at a time.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+- 🎓 2nd-year Software Development Student  
+-  Currently learning: Angular + .NET integration  
+-  Passion: Building web apps that actually *solve* local problems  
+-  Open to collaborations & internships  
+-  [LinkedIn](https://www.linkedin.com/in/karabo-tshivhase-822ab135b/)
+
+---
+
+  Tech Snapshot
+| Area | Tools |
+|------|-------|
+| Frontend | HTML, CSS, JavaScript, Angular |
+| Backend | C#, .NET |
+| Tools | Git, Visual Studio, VS Code |
+
+
+
+  Projects Coming Soon
+Stay tuned — I’m building my first Angular + .NET full-stack projects from scratch!
