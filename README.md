@@ -1,28 +1,50 @@
- Hi, I'm Karabo
+# Hi, I'm Karabo 👋
 
- Software Development Student | Aspiring Full-Stack Developer  
- Tech Stack: HTML • CSS • JavaScript • Angular • C# • .NET  
- Building clean, scalable apps — one project at a time.  
+**Aspiring Full‑Stack Developer | Vue & .NET Focused**
 
----
-
- About Me
-- 🎓 2nd-year Software Development Student  
--  Currently learning: Angular + .NET integration  
--  Passion: Building web apps that actually *solve* local problems  
--  Open to collaborations & internships  
--  [LinkedIn](https://www.linkedin.com/in/karabo-tshivhase-822ab135b/)
+I build clean, scalable web applications that solve real‑world problems — one project at a time.
 
 ---
 
-  Tech Snapshot
-| Area | Tools |
-|------|-------|
-| Frontend | HTML, CSS, JavaScript, Angular |
-| Backend | C#, .NET |
-| Tools | Git, Visual Studio, VS Code |
+## 🚀 About Me
 
+* 💻 Full‑stack focused: **Vue + .NET**
+* 🌍 Passionate about building products that solve **local and practical problems**
+* 🧠 Strong believer in learning by building real projects
+* 🤝 Open to collaborations, internships & junior developer opportunities
+* 🔗 [LinkedIn](https://www.linkedin.com/in/karabo-tshivhase-822ab135b/)
 
+---
 
-  Projects Coming Soon
-Stay tuned — I’m building my first Angular + .NET full-stack projects from scratch!
+## 🛠️ Tech Stack
+
+| Area          | Tools                             |
+| ------------- | --------------------------------- |
+| **Frontend**  | HTML, CSS, JavaScript, **Vue.js** |
+| **Backend**   | C#, .NET (ASP.NET Core)           |
+| **Databases** | SQL Server, Firebase (learning)   |
+| **Tools**     | Git, Visual Studio, VS Code       |
+
+---
+
+## 📌 Current Focus
+
+* Building **Vue + ASP.NET Core** full‑stack projects from scratch
+* Strengthening fundamentals: clean architecture, APIs, state management
+* Improving UI/UX through practical frontend work
+
+---
+
+## 📂 Projects
+
+> Projects coming soon — currently building and polishing my first production‑ready full‑stack apps.
+
+Stay tuned 👀
+
+---
+
+## 📫 Let’s Connect
+
+If you’re interested in collaborating, mentoring, or just talking tech — feel free to reach out.
+
+⭐ *Always learning. Always building.*
