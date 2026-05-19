@@ -8,7 +8,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ## 🚀 About Me
 
-- 💻 Full-stack focused: **Vue + .NET** and **C# Desktop (WPF)**
+- 💻 backend focused: **Vue + .NET** and **C# Desktop (WPF)**
 - 🛠️ Currently building original software products from scratch — not just tutorials
 - 🌍 Based in Pretoria, South Africa 🇿🇦 — building for the world
 - 🧠 Strong believer in learning by shipping real things
