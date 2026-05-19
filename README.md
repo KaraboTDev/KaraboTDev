@@ -1,4 +1,4 @@
-# Hi, I'm Karabo 👋
+# Hi, I'm Karabo 
 **Junior Software Developer | C# • WPF • Vue • .NET**
 
 I don't just build projects — I build products that solve real problems.
@@ -6,18 +6,18 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 backend focused: **Vue + .NET** and **C# Desktop (WPF)**
-- 🛠️ Currently building original software products from scratch — not just tutorials
-- 🌍 Based in Pretoria, South Africa 🇿🇦 — building for the world
-- 🧠 Strong believer in learning by shipping real things
-- 🤝 Open to collaborations, internships & junior developer opportunities
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karabo-tshivhase-822ab135b/)
+-  backend focused: **Vue + .NET** and **C# Desktop (WPF)**
+-  Currently building original software products from scratch — not just tutorials
+-  Based in Pretoria, South Africa 🇿🇦 — building for the world
+-  Strong believer in learning by shipping real things
+-  Open to collaborations, internships & junior developer opportunities
+-  [LinkedIn](https://www.linkedin.com/in/karabo-tshivhase-822ab135b/)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area          | Tools                                          |
 | ------------- | ---------------------------------------------- |
@@ -30,9 +30,9 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 📋 [ClipboardManager](https://github.com/KaraboTDev/ClipboardManager)
+###  [ClipboardManager](https://github.com/KaraboTDev/ClipboardManager)
 > A system tray clipboard history tool that hooks directly into the Windows OS
 
 - Detects every copy system-wide in real time using Windows P/Invoke (user32.dll)
@@ -42,7 +42,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-### 🖥️ [OverlayApp](https://github.com/KaraboTDev/OverlayApp)
+###  [OverlayApp](https://github.com/KaraboTDev/OverlayApp)
 > A transparent screen overlay that sits on top of every app on Windows
 
 - Draggable and resizable panels to hide sensitive information during screen sharing
@@ -52,7 +52,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-### 🧩 Sudoku Solver
+###  Sudoku Solver
 > Desktop app with a backtracking algorithm for automatic puzzle solving
 
 - Full UI and logic separation following MVVM principles
@@ -61,7 +61,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-### 📝 Notes App
+###  Notes App
 > Full-stack notes app with Vue 3 frontend and ASP.NET Core REST API
 
 - SPA frontend consuming a custom built REST API
@@ -69,7 +69,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-### 💰 Expense Tracker
+###  Expense Tracker
 > Full CRUD expense tracking app with data visualisation
 
 - Database persistence with Entity Framework Core
@@ -78,7 +78,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 - Shipping original desktop utility apps in **C# WPF**
 - Building **Vue + ASP.NET Core** full-stack projects
@@ -87,7 +87,7 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 If you're hiring, collaborating, or just talking tech — reach out.
 
