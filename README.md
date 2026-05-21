@@ -1,14 +1,14 @@
 # Hi, I'm Karabo 
-**Junior Software Developer | C# • WPF • Vue • .NET**
+**Junior Software Developer | C# • Kotlin • Vue • .NET**
 
 I don't just build projects — I build products that solve real problems.
-Currently shipping original Windows desktop utilities alongside full-stack web apps.
+Currently shipping original software across Windows desktop and Android mobile.
 
 ---
 
 ##  About Me
 
--  backend focused: **Vue + .NET** and **C# Desktop (WPF)**
+-  Full-stack focused: **Vue + .NET** and **C# Desktop (WPF)** and **Kotlin Android**
 -  Currently building original software products from scratch — not just tutorials
 -  Based in Pretoria, South Africa 🇿🇦 — building for the world
 -  Strong believer in learning by shipping real things
@@ -19,25 +19,37 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ##  Tech Stack
 
-| Area          | Tools                                          |
-| ------------- | ---------------------------------------------- |
-| **Languages** | C#, Java, JavaScript, PHP, Kotlin, HTML, CSS   |
-| **Frontend**  | Vue.js 3, HTML, CSS                            |
-| **Backend**   | ASP.NET Core MVC, ASP.NET Core Web API         |
-| **Desktop**   | WPF, .NET 10, Windows API (P/Invoke)           |
-| **Databases** | MSSQL, MySQL, Firebase Firestore               |
-| **Tools**     | Git, GitHub, Visual Studio, VS Code, Postman   |
+| Area           | Tools                                          |
+| -------------- | ---------------------------------------------- |
+| **Languages**  | C#, PHP, Kotlin, HTML, CSS   |
+| **Frontend**   | Vue.js 3, HTML, CSS                            |
+| **Backend**    | ASP.NET Core MVC, ASP.NET Core Web API         |
+| **Desktop**    | WPF, .NET 10, Windows API (P/Invoke)           |
+| **Mobile**     | Kotlin, Android SDK, Coroutines, RecyclerView  |
+| **Databases**  | MSSQL, MySQL, Firebase Firestore               |
+| **Tools**      | Git, GitHub, Visual Studio, Android Studio, VS Code, Postman |
 
 ---
 
 ##  Projects
+
+###  [WorldClock](https://github.com/KaraboTDev/WorldClock)
+> A real time world clock Android app displaying current times across 15 major cities
+
+- Real time clock that updates every second using Kotlin Coroutines and lifecycleScope
+- Lifecycle aware — automatically stops when app closes, preventing memory leaks
+- RecyclerView with custom Adapter and ViewHolder pattern for smooth scrollable performance
+- Real time search filtering by city name or GMT offset
+- **Tech:** Kotlin • Android • Coroutines • RecyclerView
+
+---
 
 ###  [ClipboardManager](https://github.com/KaraboTDev/ClipboardManager)
 > A system tray clipboard history tool that hooks directly into the Windows OS
 
 - Detects every copy system-wide in real time using Windows P/Invoke (user32.dll)
 - Stores up to 50 items, double click any item to copy it back instantly
-- Lives silently in the system tray with a right click context menu and balloon notifications
+- Lives silently in the system tray with right click context menu and balloon notifications
 - **Tech:** C# • WPF • .NET 10 • Windows API
 
 ---
@@ -80,9 +92,9 @@ Currently shipping original Windows desktop utilities alongside full-stack web a
 
 ##  Current Focus
 
+- Shipping original Android apps in **Kotlin**
 - Shipping original desktop utility apps in **C# WPF**
 - Building **Vue + ASP.NET Core** full-stack projects
-- Strengthening clean architecture, REST API design, and state management
 - Growing a portfolio that shows product thinking, not just coding ability
 
 ---
