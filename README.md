@@ -33,6 +33,17 @@ Currently shipping original software across Windows desktop and Android mobile.
 
 ##  Projects
 
+🔗 WebhookInspector
+
+A developer tool for capturing, inspecting and replaying incoming webhook payloads
+
+
+Generates unique public endpoints that capture every incoming HTTP request in real time
+Stores full payload including method, headers, body and content type for inspection
+One click replay of any captured webhook for debugging without re-triggering external services
+Built specifically for developers integrating South African payment gateways like PayFast
+Tech: PHP • Laravel • SQLite • Blade • MVC
+
 ###  [WorldClock](https://github.com/KaraboTDev/WorldClock)
 > A real time world clock Android app displaying current times across 15 major cities
 
