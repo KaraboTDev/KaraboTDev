@@ -19,19 +19,30 @@ Currently shipping original software across Windows desktop, Android mobile and 
 
 ## 🛠️ Tech Stack
 
-| Area           | Tools                                          |
-| -------------- | ---------------------------------------------- |
-| **Languages**  | C#, Java, JavaScript, PHP, Kotlin, HTML, CSS   |
-| **Frontend**   | Vue.js 3, Blade (Laravel), HTML, CSS           |
-| **Backend**    | ASP.NET Core MVC, ASP.NET Core Web API, Laravel|
-| **Desktop**    | WPF, .NET 10, Windows API (P/Invoke)           |
-| **Mobile**     | Kotlin, Android SDK, Coroutines, RecyclerView  |
-| **Databases**  | MSSQL, MySQL, SQLite, Firebase Firestore       |
+| Area           | Tools                                                        |
+| -------------- | ------------------------------------------------------------ |
+| **Languages**  | C#, Java, JavaScript, PHP, Kotlin, HTML, CSS                 |
+| **Frontend**   | Vue.js 3, Blade (Laravel), HTML, CSS                         |
+| **Backend**    | ASP.NET Core MVC, ASP.NET Core Web API, Laravel              |
+| **Desktop**    | WPF, .NET 10, Windows API (P/Invoke)                         |
+| **Mobile**     | Kotlin, Android SDK, Room, Coroutines, Navigation Component  |
+| **Databases**  | MSSQL, MySQL, SQLite, Firebase Firestore                     |
 | **Tools**      | Git, GitHub, Visual Studio, Android Studio, VS Code, Postman, Composer |
 
 ---
 
 ## 📂 Projects
+
+### 🏕️ [CampReady](https://github.com/KaraboTDev/CampReady)
+> A South African camping and outdoor adventure planner Android app
+
+- Browse 5 iconic SA camping locations with difficulty, signal, fire rules and danger warnings
+- Pre-loaded packing checklist with 20 essential items — check off as you pack
+- 6 survival tips across categories — Water, Fire, Wildlife, Navigation, Weather
+- Works fully offline using Room Database — no internet required in the mountains
+- **Tech:** Kotlin • Android • Room Database • Navigation Component • Flow • KSP
+
+---
 
 ### 🔗 [WebhookInspector](https://github.com/KaraboTDev/webhook-inspector)
 > A developer tool for capturing, inspecting and replaying incoming webhook payloads
@@ -79,7 +90,6 @@ Currently shipping original software across Windows desktop, Android mobile and 
 > Desktop app with a backtracking algorithm for automatic puzzle solving
 
 - Full UI and logic separation following MVVM principles
-- Manual input and random puzzle generation
 - **Tech:** C# • WPF • .NET • MVVM
 
 ---
@@ -87,7 +97,6 @@ Currently shipping original software across Windows desktop, Android mobile and 
 ### 📝 Notes App
 > Full-stack notes app with Vue 3 frontend and ASP.NET Core REST API
 
-- SPA frontend consuming a custom built REST API
 - **Tech:** Vue 3 • ASP.NET Core Web API • REST
 
 ---
@@ -95,16 +104,14 @@ Currently shipping original software across Windows desktop, Android mobile and 
 ### 💰 Expense Tracker
 > Full CRUD expense tracking app with data visualisation
 
-- Database persistence with Entity Framework Core
-- Interactive spending charts with Chart.js
 - **Tech:** ASP.NET Core MVC • Entity Framework Core • Chart.js • MSSQL
 
 ---
 
 ## 📌 Current Focus
 
-- Shipping original web apps in **PHP Laravel**
 - Shipping original Android apps in **Kotlin**
+- Shipping original web apps in **PHP Laravel**
 - Shipping original desktop utility apps in **C# WPF**
 - Growing a portfolio that shows product thinking, not just coding ability
 
